@@ -1,0 +1,8 @@
+# Keep line endings the same on every computer
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
